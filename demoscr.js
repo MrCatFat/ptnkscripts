@@ -1,3 +1,3 @@
 function pingtest(){
-  console.log('Touching Git!');
+  console.log('Touching Git MrCat!');
 }
