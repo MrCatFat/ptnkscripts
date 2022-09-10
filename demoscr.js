@@ -1,3 +1,3 @@
 function pingtest(){
-alert('Touching Git!');
+  console.log('Touching Git!');
 }
