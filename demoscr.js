@@ -1,3 +1,4 @@
 function pingtest(){
-  console.log('Touching Git MrCat!');
+  var t = new Date(milliseconds);
+  console.log('Touching Git MrCat!'+t);
 }
